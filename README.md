@@ -1,6 +1,6 @@
 # Technical Training Videos
 
-Here are some of my technical training videos focused on Cisco Meraki solutions, architecture, config and network management.
+Here are some of my technical training videos focused on Cisco Meraki solutions, Fortinet, architecture, config and network management.
 
 ---
 
