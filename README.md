@@ -34,4 +34,17 @@ Detailed steps for initial configuration of Cisco Meraki switches, MX firewall s
 
 ---
 
-Feel free to explore these videos to enhance your understanding of Cisco Meraki networking and cloud-managed solutions.
+### 6. Cisco Meraki Device Portfolio | Meraki Switch Firewall AP | Meraki Camera | Meraki Data-sheet  
+[![Cisco Meraki Device Portfolio](https://img.youtube.com/vi/BJcdN6dZhT0/0.jpg)](https://www.youtube.com/watch?v=BJcdN6dZhT0)  
+A detailed overview of the Cisco Meraki device portfolio, covering switches, firewalls, access points, cameras, and key data-sheet specifications.
+
+---
+
+### 7. FortiGate GUI Overview | FortiGate Web Interface | Basic Options in FortiGate  
+[![FortiGate GUI Overview](https://img.youtube.com/vi/3EbZHZa4h48/0.jpg)](https://www.youtube.com/watch?v=3EbZHZa4h48)  
+Introduction to the FortiGate web-based GUI, explaining the basic interface options and how to navigate FortiGate firewall settings effectively.
+
+
+---
+
+Feel free to explore these videos to enhance your understanding of Cisco Meraki networking, Fortigate and cloud-managed solutions.
