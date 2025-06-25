@@ -44,6 +44,10 @@ A detailed overview of the Cisco Meraki device portfolio, covering switches, fir
 [![FortiGate GUI Overview](https://img.youtube.com/vi/3EbZHZa4h48/0.jpg)](https://www.youtube.com/watch?v=3EbZHZa4h48)  
 Introduction to the FortiGate web-based GUI, explaining the basic interface options and how to navigate FortiGate firewall settings effectively.
 
+###8 : Multivendor VPN Architecture
+
+https://github.com/avinashgujje/Projects/blob/main/Multi-vendor%20VPN%20Architecture.pdf
+
 
 ---
 
